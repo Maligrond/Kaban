@@ -3,12 +3,33 @@
     <title>Кабан</title>
     <link href="https://kaban.blog/feed.xml" rel="self" />
     <link href="https://kaban.blog" />
-    <updated>2023-08-25T15:37:30+02:00</updated>
+    <updated>2023-08-25T15:54:54+02:00</updated>
     <author>
         <name>Кабан</name>
     </author>
     <id>https://kaban.blog</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Кабан</name>
+        </author>
+        <link href="https://kaban.blog/test.html"/>
+        <id>https://kaban.blog/test.html</id>
+
+        <updated>2023-08-25T15:54:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test2</p>
+<figure class="post__image"><img loading="lazy"  src="https://kaban.blog/media/posts/2/photo_2023-06-06_19-14-19.jpg" alt="" width="960" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-xs.jpg 384w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-sm.jpg 600w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-md.jpg 768w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-lg.jpg 1200w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Пожилой тест</title>
         <author>
@@ -17,10 +38,15 @@
         <link href="https://kaban.blog/pozhiloy-test.html"/>
         <id>https://kaban.blog/pozhiloy-test.html</id>
 
-        <updated>2023-08-25T15:37:30+02:00</updated>
+        <updated>2023-08-25T15:54:38+02:00</updated>
             <summary>
                 <![CDATA[
-                    Лорем Ипсум The standard Lorem Ipsum passage, used since the 1500s "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed&hellip;
+                    <h1><strong>Лорем Ипсум</strong></h1>
+<div id="Content">
+<div id="Translation">
+<h3>The standard Lorem Ipsum passage, used since the 1500s</h3>
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -30,6 +56,8 @@
 <div id="Translation">
 <h3>The standard Lorem Ipsum passage, used since the 1500s</h3>
 <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+
+<figure class="post__image"><img loading="lazy"  src="https://kaban.blog/media/posts/1/PXL_20230329_204454048.MP.jpg" alt="" width="484" height="860" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaban.blog/media/posts/1/responsive/PXL_20230329_204454048.MP-xs.jpg 384w ,https://kaban.blog/media/posts/1/responsive/PXL_20230329_204454048.MP-sm.jpg 600w ,https://kaban.blog/media/posts/1/responsive/PXL_20230329_204454048.MP-md.jpg 768w ,https://kaban.blog/media/posts/1/responsive/PXL_20230329_204454048.MP-lg.jpg 1200w ,https://kaban.blog/media/posts/1/responsive/PXL_20230329_204454048.MP-xl.jpg 1600w"></figure>
 <h3>Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC</h3>
 <p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
 <h3>1914 translation by H. Rackham</h3>
