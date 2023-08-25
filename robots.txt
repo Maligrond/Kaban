@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaban.blog/sitemap.xml

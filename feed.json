@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Кабан",
+    "description": "",
+    "home_page_url": "https://kaban.blog",
+    "feed_url": "https://kaban.blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Кабан"
+    },
+    "items": [
+    ]
+}
