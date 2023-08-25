@@ -3,7 +3,7 @@
     <title>Кабан</title>
     <link href="https://kaban.blog/feed.xml" rel="self" />
     <link href="https://kaban.blog" />
-    <updated>2023-08-25T15:54:54+02:00</updated>
+    <updated>2023-08-25T15:57:48+02:00</updated>
     <author>
         <name>Кабан</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://kaban.blog/test.html"/>
         <id>https://kaban.blog/test.html</id>
+        <media:content url="https://kaban.blog/media/posts/2/photo_2023-06-06_19-14-11.jpg" medium="image" />
 
-        <updated>2023-08-25T15:54:54+02:00</updated>
+        <updated>2023-08-25T15:57:36+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://kaban.blog/media/posts/2/photo_2023-06-06_19-14-11.jpg" alt="" />
                     test2
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://kaban.blog/media/posts/2/photo_2023-06-06_19-14-11.jpg" class="type:primaryImage" alt="" /></p>
                 <p>test2</p>
 <figure class="post__image"><img loading="lazy"  src="https://kaban.blog/media/posts/2/photo_2023-06-06_19-14-19.jpg" alt="" width="960" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-xs.jpg 384w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-sm.jpg 600w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-md.jpg 768w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-lg.jpg 1200w ,https://kaban.blog/media/posts/2/responsive/photo_2023-06-06_19-14-19-xl.jpg 1600w"></figure>
             ]]>
@@ -37,10 +40,12 @@
         </author>
         <link href="https://kaban.blog/pozhiloy-test.html"/>
         <id>https://kaban.blog/pozhiloy-test.html</id>
+        <media:content url="https://kaban.blog/media/posts/1/PXL_20230329_204454048.MP-2.jpg" medium="image" />
 
-        <updated>2023-08-25T15:54:38+02:00</updated>
+        <updated>2023-08-25T15:57:48+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://kaban.blog/media/posts/1/PXL_20230329_204454048.MP-2.jpg" alt="" />
                     <h1><strong>Лорем Ипсум</strong></h1>
 <div id="Content">
 <div id="Translation">
@@ -51,6 +56,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://kaban.blog/media/posts/1/PXL_20230329_204454048.MP-2.jpg" class="type:primaryImage" alt="" /></p>
                 <h1><strong>Лорем Ипсум</strong></h1>
 <div id="Content">
 <div id="Translation">
