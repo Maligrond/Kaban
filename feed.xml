@@ -3,12 +3,76 @@
     <title>Кабан</title>
     <link href="https://kaban.blog/feed.xml" rel="self" />
     <link href="https://kaban.blog" />
-    <updated>2023-08-25T16:25:41+02:00</updated>
+    <updated>2023-08-25T16:44:55+02:00</updated>
     <author>
         <name>Кабан</name>
     </author>
     <id>https://kaban.blog</id>
 
+    <entry>
+        <title>ULTRA TEST</title>
+        <author>
+            <name>Кабан</name>
+        </author>
+        <link href="https://kaban.blog/ultra-test/"/>
+        <id>https://kaban.blog/ultra-test/</id>
+
+        <updated>2023-08-25T16:44:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    horse12 asd dsad sadasd dsadasdasdsadsad asdasd sd asd as d asd asd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div class="post__toc">
+    <h3>sadsadasdasd\\</h3>
+    <ul>
+      
+    </ul>
+  </div>
+  
+
+  <ul>
+    <li>horse</li><li>1</li><li>2</li><li><br></li>
+  </ul>
+
+  <p>
+    asd
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kaban.blog/media/posts/15/Drumheller-Feature-Image.jpg" height="800" width="1200" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaban.blog/media/posts/15/responsive/Drumheller-Feature-Image-xs.jpg 384w ,https://kaban.blog/media/posts/15/responsive/Drumheller-Feature-Image-sm.jpg 600w ,https://kaban.blog/media/posts/15/responsive/Drumheller-Feature-Image-md.jpg 768w ,https://kaban.blog/media/posts/15/responsive/Drumheller-Feature-Image-lg.jpg 1200w ,https://kaban.blog/media/posts/15/responsive/Drumheller-Feature-Image-xl.jpg 1600w">
+      <figcaption>caption</figcaption>
+    </figure>
+
+  <p>
+    dsad
+  </p>
+
+  <p>
+    sadasd
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    dsadasdasdsadsad
+  </p>
+
+  <p>
+    asdasd<br>sd<br>asd<br>as<br>d<br>asd<br>asd<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Осуждаю</title>
         <author>
@@ -19,7 +83,7 @@
         <media:content url="https://kaban.blog/media/posts/14/photo_2023-08-25_16-25-04-2.jpg" medium="image" />
             <category term="Нью-Йорк"/>
 
-        <updated>2023-08-25T16:25:41+02:00</updated>
+        <updated>2023-08-25T16:43:36+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kaban.blog/media/posts/14/photo_2023-08-25_16-25-04-2.jpg" alt="Осуждаю" />
@@ -220,31 +284,6 @@
             <![CDATA[
                     <p><img src="https://kaban.blog/media/posts/6/photo_2023-08-25_16-17-58-2.jpg" class="type:primaryImage" alt="Парков очка" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://kaban.blog/media/posts/6/photo_2023-08-25_16-17-58.jpg" alt="" width="720" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaban.blog/media/posts/6/responsive/photo_2023-08-25_16-17-58-xs.jpg 384w ,https://kaban.blog/media/posts/6/responsive/photo_2023-08-25_16-17-58-sm.jpg 600w ,https://kaban.blog/media/posts/6/responsive/photo_2023-08-25_16-17-58-md.jpg 768w ,https://kaban.blog/media/posts/6/responsive/photo_2023-08-25_16-17-58-lg.jpg 1200w ,https://kaban.blog/media/posts/6/responsive/photo_2023-08-25_16-17-58-xl.jpg 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Синагога</title>
-        <author>
-            <name>Кабан</name>
-        </author>
-        <link href="https://kaban.blog/sinagoga/"/>
-        <id>https://kaban.blog/sinagoga/</id>
-        <media:content url="https://kaban.blog/media/posts/5/photo_2023-08-25_16-17-10-2.jpg" medium="image" />
-            <category term="Нью-Йорк"/>
-
-        <updated>2023-08-25T16:17:52+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://kaban.blog/media/posts/5/photo_2023-08-25_16-17-10-2.jpg" alt="Синагога в Нью-Йорке. Евреев тут немерено." />
-                    Синагога в Нью-Йорке. Евреев тут немерено.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://kaban.blog/media/posts/5/photo_2023-08-25_16-17-10-2.jpg" class="type:primaryImage" alt="Синагога в Нью-Йорке. Евреев тут немерено." /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://kaban.blog/media/posts/5/photo_2023-08-25_16-17-10.jpg" alt="" width="720" height="1280" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaban.blog/media/posts/5/responsive/photo_2023-08-25_16-17-10-xs.jpg 384w ,https://kaban.blog/media/posts/5/responsive/photo_2023-08-25_16-17-10-sm.jpg 600w ,https://kaban.blog/media/posts/5/responsive/photo_2023-08-25_16-17-10-md.jpg 768w ,https://kaban.blog/media/posts/5/responsive/photo_2023-08-25_16-17-10-lg.jpg 1200w ,https://kaban.blog/media/posts/5/responsive/photo_2023-08-25_16-17-10-xl.jpg 1600w"></figure>
-<p>Синагога в Нью-Йорке.<br>Евреев тут немерено.</p>
             ]]>
         </content>
     </entry>
